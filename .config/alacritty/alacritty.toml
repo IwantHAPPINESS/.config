@@ -1,0 +1,62 @@
+import = [
+# uncomment the flavour you want below:
+# "~/.config/alacritty/catppuccin-macchiato.toml"
+ "~/.config/alacritty/catppuccin-mocha.toml"
+ # "~/.config/alacritty/tokyo-night.toml"
+]
+
+[shell]
+program = "/usr/bin/fish"
+
+[env]
+TERM = "alacritty"
+
+[font]
+builtin_box_drawing = true
+size = 14.0
+
+[font.normal]
+family = "JetBrainsMono Nerd Font"
+# family = "Ubuntu Nerd Font" 
+# family = "Cascadia Code NF" 
+# family = "Zed Mono Nerd Font"
+# family = "Caskaydia Mono NF"
+# family = "Cascadia Code"
+# family = "Dank Mono"
+style = "Regular"
+
+[font.bold]
+style = "Bold"
+
+[font.bold_italic]
+style = "Bold Italic"
+
+[font.italic]
+style = "Italic"
+
+[colors]
+draw_bold_text_with_bright_colors = true
+
+[cursor]
+unfocused_hollow = false
+
+[cursor.style]
+blinking = "Always"
+shape = "Beam"
+
+[scrolling]
+history = 100000
+multiplier = 6
+
+[selection]
+save_to_clipboard = true
+semantic_escape_chars = ",│`|:\"' ()[]{}<>\t"
+
+[window]
+dynamic_title = true
+opacity = 1
+title = "Alacritty"
+
+[window.class]
+general = "Alacritty"
+instance = "Alacritty"
