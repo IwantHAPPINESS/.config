@@ -28,5 +28,5 @@ explicit_filter.restore
 !.config/neofetch
 !.config/alacritty
 !.config/HyprPanel
-!.config/zed/settings.json
+!.config/zed
 !.config/xdg-desktop-portal-kderc
