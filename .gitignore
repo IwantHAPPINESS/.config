@@ -23,6 +23,7 @@ explicit_filter.restore
 !.config/hypr
 !.config/rofi
 !.config/fish
+!.config/nvim
 !.config/cava
 !.config/waybar
 !.config/neofetch

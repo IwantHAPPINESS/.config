@@ -13,8 +13,8 @@
   "ui_font_size": 16,
   "buffer_font_size": 16,
   // "buffer_font_family": "JetBrainsMono Nerd Font",
-  // "buffer_font_family": "Cascadia Code",
-  "buffer_font_family": "Dank Mono",
+  "buffer_font_family": "Cascadia Code",
+  // "buffer_font_family": "Dank Mono",
   "relative_line_numbers": true,
   // Прокрутка
   "scrollbar": {
